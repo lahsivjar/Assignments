@@ -8,6 +8,7 @@
 #define EATING 2
 #define LEFT (ph_num+4)%N
 #define RIGHT (ph_num+1)%N
+
 sem_t mutex;
 sem_t S[N];
 
