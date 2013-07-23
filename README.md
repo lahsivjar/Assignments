@@ -1,1 +1,1 @@
-A collection of all my assignments which I did some semesters ago.
+Some assignments which I did during my semester.
